@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLG Fetch", "MLG Fetch.csproj", "{55F255E1-D1C0-42EE-A7BC-28242EFB4069}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55F255E1-D1C0-42EE-A7BC-28242EFB4069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55F255E1-D1C0-42EE-A7BC-28242EFB4069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55F255E1-D1C0-42EE-A7BC-28242EFB4069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55F255E1-D1C0-42EE-A7BC-28242EFB4069}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0229C441-42D6-415E-B794-95364E3D3189}
+	EndGlobalSection
+EndGlobal
